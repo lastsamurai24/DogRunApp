@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6ECAC3ED-AD17-4056-B0A0-B418A8CBD465"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B81CEA0-D143-4C2C-B177-B0A7A5EB5504"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DogRunApp/DogRunViewControllerr.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "DogRunViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2B81CEA0-D143-4C2C-B177-B0A7A5EB5504 - a5e42b0f643c7f17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DogRunApp.DogRunViewController.searchBar.getter : Swift.Optional&lt;__C.UISearchBar&gt;"
+                  moduleName = "DogRunApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/machideratsubasa/camp/DogRunApp/DogRunApp/DogRunViewControllerr.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "2B81CEA0-D143-4C2C-B177-B0A7A5EB5504 - 829ed54f5703ab23"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DogRunApp.DogRunViewController.searchBar.setter : Swift.Optional&lt;__C.UISearchBar&gt;"
+                  moduleName = "DogRunApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/machideratsubasa/camp/DogRunApp/DogRunApp/DogRunViewControllerr.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "2B81CEA0-D143-4C2C-B177-B0A7A5EB5504 - 628fca6d773d412"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DogRunApp.DogRunViewController.searchBar.modify : Swift.Optional&lt;__C.UISearchBar&gt;"
+                  moduleName = "DogRunApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/machideratsubasa/camp/DogRunApp/DogRunApp/DogRunViewControllerr.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "2B81CEA0-D143-4C2C-B177-B0A7A5EB5504 - 3e944650196ec951"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DogRunApp.DogRunViewController.searchBar.modify : Swift.Optional&lt;__C.UISearchBar&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "DogRunApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/machideratsubasa/camp/DogRunApp/DogRunApp/DogRunViewControllerr.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "2B81CEA0-D143-4C2C-B177-B0A7A5EB5504 - 3fd096d748e2ad38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DogRunApp.DogRunViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; DogRunApp.DogRunViewController"
+                  moduleName = "DogRunApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/machideratsubasa/camp/DogRunApp/DogRunApp/DogRunViewControllerr.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "2B81CEA0-D143-4C2C-B177-B0A7A5EB5504 - c6ae72289496ba33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DogRunApp.DogRunViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;DogRunApp.DogRunViewController&gt;"
+                  moduleName = "DogRunApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/machideratsubasa/camp/DogRunApp/DogRunApp/DogRunViewControllerr.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
